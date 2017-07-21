@@ -1,4 +1,7 @@
 # Administrate::Field::Enumerize
+[![Gem](https://img.shields.io/gem/v/administrate-field-enumerize.svg?style=flat-square)](https://rubygems.org/gems/administrate-field-enumerize)
+[![license](https://img.shields.io/github/license/mika-f/administrate-field-enumerize.svg?style=flat-square)](LICENSE)
+
 Plugin for adding [Enumerize](https://github.com/brainspec/enumerize) gem support in [Administrate](https://github.com/thoughtbot/administrate).
 
 
